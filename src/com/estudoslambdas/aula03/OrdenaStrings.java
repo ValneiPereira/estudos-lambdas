@@ -1,4 +1,4 @@
-package com.javaoito.aula03;
+package com.estudoslambdas.aula03;
 
 import java.util.ArrayList;
 import java.util.Comparator;

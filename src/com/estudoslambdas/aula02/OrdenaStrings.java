@@ -1,4 +1,4 @@
-package com.javaoito.aula02;
+package com.estudoslambdas.aula02;
 
 import java.util.ArrayList;
 import java.util.List;
